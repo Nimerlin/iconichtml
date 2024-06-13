@@ -140,12 +140,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #f89d13;
+  color: #404040;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #b97205;
+    color: #999999;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -7193,10 +7193,10 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #f89d13 !important; }
+  color: #404040 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #d28106 !important; }
+  color: #404040 !important; }
 
 .text-secondary {
   color: #6c757d !important; }
