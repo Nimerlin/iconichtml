@@ -393,7 +393,7 @@ h6 {
     font-family: inherit;
     font-weight: 500;
     line-height: 1.2;
-    color: inherit
+    color: #21318f
 }
 
 .h1,
@@ -2817,16 +2817,22 @@ fieldset:disabled a.btn {
     pointer-events: none
 }
 
+.learn-btn{
+    border-radius: 13px;
+    cursor: pointer;
+}
+
 .btn-primary {
     color: #fff;
-    background-color: #404040;
-    border-color: #6d6d6d
+    background-color: #89009c;
+    border-color: #6d6d6d;
+    border-radius: 10px;
 }
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #6d6d6d;
-    border-color: #404040
+    background-color: #ad009d;
+    border-color: #404040;
 }
 
 .btn-primary.focus,
@@ -2846,8 +2852,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #d2500d;
-    border-color: #c64c0c
+    background-color: #cf009f;
+    border-color: #cf009f
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -3166,8 +3172,8 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show>.btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #404040;
-    border-color: #404040
+    background-color: #ce00a0;
+    border-color: #ce00a0;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
@@ -10318,7 +10324,7 @@ button.bg-dark:hover {
 }
 
 .text-primary {
-    color: #404040 !important
+    color: #21318f !important
 }
 
 a.text-primary:focus,
