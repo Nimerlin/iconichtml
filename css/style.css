@@ -1560,7 +1560,7 @@ width: 65px;
 .footer-content{
   font-weight: 500;
   color : white;
-  text-align:justify;
+  /* text-align:justify; */
   font-size:19px;
 }
 #thank-you-message {
